@@ -1,0 +1,12 @@
+/* personal css */
+body{
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background: url(../images/1.jpeg) no-repeat center center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
